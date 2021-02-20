@@ -1,0 +1,27 @@
+{
+  "name": "viewer-sample-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "viewer-sample-app",
+  "author": "Ingun Jon",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "fp-ts": "^2.9.5",
+    "gatsby": "^2.32.3",
+    "jszip": "^3.6.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.5.0",
+    "react-dom": "^16.13.1",
+    "rxjs": "^6.6.3"
+  }
+}
